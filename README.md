@@ -1,7 +1,7 @@
 Flaxton Network Protocol
 ==============
 
-Flaxton protocol is a combination of TCP and UDP standard Transport Layer protocols, created back in 1987. The primary goal is to create a new Transport layer protocol for adding TCP top stability and UDP speed together.<br/>
+Flaxton protocol is a combination of TCP and UDP standard Transport Layer protocols, which are created back in 1987. The primary goal is to create a new Transport layer protocol for adding TCP top stability and UDP speed together.<br/>
 Checkout <a href="http://flaxton.io">flaxton.io</a> and learn more about protocol and load balancing tool based on it.
 
 
